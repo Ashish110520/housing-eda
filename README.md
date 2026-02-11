@@ -60,7 +60,7 @@ flowchart TD
     M --> N[Predict Housing Prices]
     N --> O[Store and Display Results]
     O --> P[End]
-
+```
 
 ## Machine Learning Approach
   -Supervised learning using regression techniques
