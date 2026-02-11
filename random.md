@@ -1,0 +1,1 @@
+## Random notes while making this project
