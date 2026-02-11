@@ -76,7 +76,7 @@ flowchart TD
 
   -Deploy the model using a web framework
 
-##Author
+## Author
   -Ashish Kumar Singh
 
 ## License
